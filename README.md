@@ -1,10 +1,13 @@
 ## Hi there 👋
 
 ## Introduction
-안녕하세요 저는 어쩌고저쩌고
+학과: 컴퓨터학부(컴퓨터공학과)\
+학년: 2\
+학번: 22411870\
+이름: 정지은
 
 ## Career
-영남대학교 컴퓨터학부 컴퓨터공학과
+영남대학교 컴퓨터학부 컴퓨터공학과 재학중
 
 <!--
 **JiEunJung611/JiEunJung611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
